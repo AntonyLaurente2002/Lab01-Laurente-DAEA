@@ -1,0 +1,14 @@
+C:\Users\Alumno\source\repos\Lab01-Laurente\Lab01-Laurente\bin\Debug\net7.0\Lab01-Laurente.exe
+C:\Users\Alumno\source\repos\Lab01-Laurente\Lab01-Laurente\bin\Debug\net7.0\Lab01-Laurente.deps.json
+C:\Users\Alumno\source\repos\Lab01-Laurente\Lab01-Laurente\bin\Debug\net7.0\Lab01-Laurente.runtimeconfig.json
+C:\Users\Alumno\source\repos\Lab01-Laurente\Lab01-Laurente\bin\Debug\net7.0\Lab01-Laurente.dll
+C:\Users\Alumno\source\repos\Lab01-Laurente\Lab01-Laurente\bin\Debug\net7.0\Lab01-Laurente.pdb
+C:\Users\Alumno\source\repos\Lab01-Laurente\Lab01-Laurente\obj\Debug\net7.0\Lab01-Laurente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\Lab01-Laurente\Lab01-Laurente\obj\Debug\net7.0\Lab01-Laurente.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\Lab01-Laurente\Lab01-Laurente\obj\Debug\net7.0\Lab01-Laurente.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\Lab01-Laurente\Lab01-Laurente\obj\Debug\net7.0\Lab01-Laurente.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Lab01-Laurente\Lab01-Laurente\obj\Debug\net7.0\Lab01-Laurente.dll
+C:\Users\Alumno\source\repos\Lab01-Laurente\Lab01-Laurente\obj\Debug\net7.0\refint\Lab01-Laurente.dll
+C:\Users\Alumno\source\repos\Lab01-Laurente\Lab01-Laurente\obj\Debug\net7.0\Lab01-Laurente.pdb
+C:\Users\Alumno\source\repos\Lab01-Laurente\Lab01-Laurente\obj\Debug\net7.0\Lab01-Laurente.genruntimeconfig.cache
+C:\Users\Alumno\source\repos\Lab01-Laurente\Lab01-Laurente\obj\Debug\net7.0\ref\Lab01-Laurente.dll
